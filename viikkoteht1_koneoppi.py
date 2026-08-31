@@ -1,7 +1,7 @@
 import numpy as np
 import random
 #print(np.arange(10))
-
+#mitähS
 def TervehdysJaRoolit(rooli):
     rooli = rooli.lower()
     if (rooli == "asiakas"):
